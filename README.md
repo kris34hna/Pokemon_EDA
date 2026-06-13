@@ -8,6 +8,7 @@ Exploring the stats, types, and generations of 800 Pokémon to uncover patterns 
 
 An exploratory data analysis (EDA) on the classic Pokémon dataset (800 Pokémon, Gen 1–6), using Pandas, Matplotlib, Seaborn, and Plotly to analyze stat distributions, type combinations, legendary vs. regular Pokémon, and inter-stat correlations.
 
+---
 
 ### Overview
 
