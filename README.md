@@ -114,6 +114,7 @@ This EDA provided a comprehensive understanding of the Pokémon dataset's struct
 ### Author & Contact
 
 |Name    | KRISHNA |
+|--------|---------|
 |LinkedIn|https://www.linkedin.com/in/krishna-krishna-26a106231/ |
 |GitHub   | https://github.com/kris34hna/Pokemon_EDA/edit/main/README.md | 
 
